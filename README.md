@@ -20,3 +20,13 @@ Convert - Removes formulas and converts cell contents to text
 
 The majority of the functions use IP addresses in the form a.b.c.d or a.b.c.d/x. 
 
+Installation
+1. Save the .xlam addin file and the help to a location on your computer.
+2. Click the Microsoft Office Button , and then click Excel Options. 
+3. Click the Add-Ins category. 
+4. In the Manage box, click Excel Add-ins, and then click Go. 
+5. To load an Excel add-in, do the following: 
+1. In the Add-Ins available box, select the check box next to the add-in that you want to load, and then click OK. 
+TIP If the add-in that you want to use is not listed in the Add-Ins available box, click Browse, and then locate the add-in. Add-ins that are not available on your computer can be downloaded from Downloads on Office Online.
+2. If the add-in is not currently installed on your computer, click Yes to install it. 
+TIP Follow the setup instructions as needed.
