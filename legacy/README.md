@@ -1,4 +1,7 @@
-# ipfunctions
+# ipfunctions - legacy
+
+This is the legacy files for IPFunctions for Excel before 2016 - originally developed for 32-bit.
+
 Excel IP Functions Addon
 
 If you use Excel for doing much of anything with IP addresses or router configs, then you know there are a lot of limitations when working with IP's and subnets. This is an Excel AddIn I have been working on to help solve that problem. It adds a bunch of functions that allow you to much more easily work with and manipulate IP addresses.
