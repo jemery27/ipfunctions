@@ -2,7 +2,7 @@ Attribute VB_Name = "Other_Functions"
 Option Explicit
 
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
-' Copyright ©1996-2009 VBnet, Randy Birch, All Rights Reserved.
+' Copyright Â©1996-2009 VBnet, Randy Birch, All Rights Reserved.
 ' Some pages may also contain other copyrights by the author.
 ''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 ' Distribution: You can freely use this code in your own
